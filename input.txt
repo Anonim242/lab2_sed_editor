@@ -1,0 +1,4 @@
+old text
+some other text
+old text again
+text to delete
