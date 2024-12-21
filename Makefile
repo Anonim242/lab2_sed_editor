@@ -3,7 +3,6 @@ CFLAGS = -Wall -g
 OBJ = sed_simplified.o utils.o
 EXEC = sed_simplified
 
-# Основная цель
 all: $(EXEC)
 
 $(EXEC): $(OBJ)
